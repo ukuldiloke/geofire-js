@@ -28,11 +28,11 @@
   ],
   "dependencies": {},
   "peerDependencies": {
-    "firebase": "^2.4.0 || 3.x.x"
+    "firebase": "4.1.x"
   },
   "devDependencies": {
     "coveralls": "2.11.4",
-    "firebase": "3.x.x",
+    "firebase": "4.1.x",
     "gulp": "3.9.0",
     "gulp-concat": "2.6.0",
     "gulp-ext-replace": "0.2.0",
